@@ -20,6 +20,7 @@
 | 13 | 2024-07-16 | Tuesday | [CSV](2024/nse-sec-bhavdata-full-2024-07-16.csv)<br>292 kB | [MD](2024/nse-sec-bhavdata-full-2024-07-16.md)<br>338 kB |
 | 14 | 2024-07-17 | Wednesday | [CSV](2024/nse-sec-bhavdata-full-2024-07-17.csv)<br>292 kB | [MD](2024/nse-sec-bhavdata-full-2024-07-17.md)<br>338 kB |
 | 15 | 2024-07-18 | Thursday | [CSV](2024/nse-sec-bhavdata-full-2024-07-18.csv)<br>295 kB | [MD](2024/nse-sec-bhavdata-full-2024-07-18.md)<br>341 kB |
+| 16 | 2024-07-19 | Friday | [CSV](2024/nse-sec-bhavdata-full-2024-07-19.csv)<br>293 kB | [MD](2024/nse-sec-bhavdata-full-2024-07-19.md)<br>339 kB |
 
 
 
