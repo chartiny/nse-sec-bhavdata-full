@@ -7,6 +7,12 @@
 | ---- | ---- | ---- | ---- | ---- |
 | 1 | 2024-08-01 | Thursday | [CSV](2024/nse-sec-bhavdata-full-2024-08-01.csv)<br>296 kB | [MD](2024/nse-sec-bhavdata-full-2024-08-01.md)<br>343 kB |
 | 2 | 2024-08-02 | Friday | [CSV](2024/nse-sec-bhavdata-full-2024-08-02.csv)<br>294 kB | [MD](2024/nse-sec-bhavdata-full-2024-08-02.md)<br>341 kB |
+| 3 | 2024-08-04 | Sunday | [CSV](2024/nse-sec-bhavdata-full-2024-08-04.csv)<br>294 kB | [MD](2024/nse-sec-bhavdata-full-2024-08-04.md)<br>341 kB |
+| 4 | 2024-08-05 | Monday | [CSV](2024/nse-sec-bhavdata-full-2024-08-05.csv)<br>301 kB | [MD](2024/nse-sec-bhavdata-full-2024-08-05.md)<br>348 kB |
+| 5 | 2024-08-06 | Tuesday | [CSV](2024/nse-sec-bhavdata-full-2024-08-06.csv)<br>296 kB | [MD](2024/nse-sec-bhavdata-full-2024-08-06.md)<br>343 kB |
+| 6 | 2024-08-07 | Wednesday | [CSV](2024/nse-sec-bhavdata-full-2024-08-07.csv)<br>296 kB | [MD](2024/nse-sec-bhavdata-full-2024-08-07.md)<br>342 kB |
+| 7 | 2024-08-08 | Thursday | [CSV](2024/nse-sec-bhavdata-full-2024-08-08.csv)<br>295 kB | [MD](2024/nse-sec-bhavdata-full-2024-08-08.md)<br>341 kB |
+| 8 | 2024-08-09 | Friday | [CSV](2024/nse-sec-bhavdata-full-2024-08-09.csv)<br>296 kB | [MD](2024/nse-sec-bhavdata-full-2024-08-09.md)<br>342 kB |
 
 
 
