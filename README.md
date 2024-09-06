@@ -1,6 +1,19 @@
 
 # nse-sec-bhavdata-full
 
+## September 2024
+
+| No | Date | Day | CSV | Markdown |
+| ---- | ---- | ---- | ---- | ---- |
+| 1 | 2024-09-01 | Sunday | [CSV](2024/nse-sec-bhavdata-full-2024-09-01.csv)<br>297 kB | [MD](2024/nse-sec-bhavdata-full-2024-09-01.md)<br>344 kB |
+| 2 | 2024-09-02 | Monday | [CSV](2024/nse-sec-bhavdata-full-2024-09-02.csv)<br>303 kB | [MD](2024/nse-sec-bhavdata-full-2024-09-02.md)<br>351 kB |
+| 3 | 2024-09-03 | Tuesday | [CSV](2024/nse-sec-bhavdata-full-2024-09-03.csv)<br>299 kB | [MD](2024/nse-sec-bhavdata-full-2024-09-03.md)<br>346 kB |
+| 4 | 2024-09-04 | Wednesday | [CSV](2024/nse-sec-bhavdata-full-2024-09-04.csv)<br>298 kB | [MD](2024/nse-sec-bhavdata-full-2024-09-04.md)<br>345 kB |
+| 5 | 2024-09-05 | Thursday | [CSV](2024/nse-sec-bhavdata-full-2024-09-05.csv)<br>298 kB | [MD](2024/nse-sec-bhavdata-full-2024-09-05.md)<br>344 kB |
+| 6 | 2024-09-06 | Friday | [CSV](2024/nse-sec-bhavdata-full-2024-09-06.csv)<br>298 kB | [MD](2024/nse-sec-bhavdata-full-2024-09-06.md)<br>345 kB |
+
+
+
 ## August 2024
 
 | No | Date | Day | CSV | Markdown |
