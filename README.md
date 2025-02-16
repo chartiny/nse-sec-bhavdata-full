@@ -12,6 +12,12 @@
 | 5 | 2025-02-05 | Wednesday | [CSV](2025/nse-sec-bhavdata-full-2025-02-05.csv)<br>309 kB | [MD](2025/nse-sec-bhavdata-full-2025-02-05.md)<br>359 kB |
 | 6 | 2025-02-06 | Thursday | [CSV](2025/nse-sec-bhavdata-full-2025-02-06.csv)<br>309 kB | [MD](2025/nse-sec-bhavdata-full-2025-02-06.md)<br>358 kB |
 | 7 | 2025-02-07 | Friday | [CSV](2025/nse-sec-bhavdata-full-2025-02-07.csv)<br>308 kB | [MD](2025/nse-sec-bhavdata-full-2025-02-07.md)<br>357 kB |
+| 8 | 2025-02-09 | Sunday | [CSV](2025/nse-sec-bhavdata-full-2025-02-09.csv)<br>308 kB | [MD](2025/nse-sec-bhavdata-full-2025-02-09.md)<br>357 kB |
+| 9 | 2025-02-10 | Monday | [CSV](2025/nse-sec-bhavdata-full-2025-02-10.csv)<br>311 kB | [MD](2025/nse-sec-bhavdata-full-2025-02-10.md)<br>361 kB |
+| 10 | 2025-02-11 | Tuesday | [CSV](2025/nse-sec-bhavdata-full-2025-02-11.csv)<br>311 kB | [MD](2025/nse-sec-bhavdata-full-2025-02-11.md)<br>360 kB |
+| 11 | 2025-02-12 | Wednesday | [CSV](2025/nse-sec-bhavdata-full-2025-02-12.csv)<br>310 kB | [MD](2025/nse-sec-bhavdata-full-2025-02-12.md)<br>359 kB |
+| 12 | 2025-02-13 | Thursday | [CSV](2025/nse-sec-bhavdata-full-2025-02-13.csv)<br>307 kB | [MD](2025/nse-sec-bhavdata-full-2025-02-13.md)<br>356 kB |
+| 13 | 2025-02-14 | Friday | [CSV](2025/nse-sec-bhavdata-full-2025-02-14.csv)<br>311 kB | [MD](2025/nse-sec-bhavdata-full-2025-02-14.md)<br>360 kB |
 
 
 
